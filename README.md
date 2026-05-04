@@ -41,7 +41,7 @@ t: 30365
 a: 26743
 i: 24613
 ...
----------------------------------
+================================
 💡 Technical Highlights
 The logic in stats.py ensures that:
 
