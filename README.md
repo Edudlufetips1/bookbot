@@ -30,7 +30,6 @@ books/: A directory for storing your .txt files (e.g., Frankenstein, The Time Ma
 📝 Example Output
 When you run BookBot, you'll get a clean report printed straight to your terminal:
 
-Plaintext
 =========== BOOKBOT ============
 Analyzing book found at books/frankenstein.txt...
 ----------- Word Count ----------
